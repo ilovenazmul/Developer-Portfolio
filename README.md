@@ -1,4 +1,4 @@
-﻿# Developer-Portfolio
+ Developer-Portfolio
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -84,7 +84,7 @@
 </body>
 </html>
 
-#CSS
+*/comment/*
 .header{
     height: 950px;
     background-image: url(../Projects-01/Image/banner1.png);
