@@ -83,3 +83,94 @@
     </section>
 </body>
 </html>
+
+#CSS
+.header{
+    height: 950px;
+    background-image: url(../Projects-01/Image/banner1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: right;
+    font-size: 30px;
+    border-radius: 5px;
+}
+button{
+    background-color: orange;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+    border-radius: 5px;
+    text-decoration: none;
+    width: 160px;
+    padding: 20px;
+    border: none;
+    text-transform: capitalize;
+    cursor: pointer;
+}
+.second {
+    background-image: url(../Projects-01/Image/person.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    top: 600px;
+    text-align: right;
+}
+.plans {
+    text-align: center;
+    font-size: 40px;
+}
+.plans-container {
+    justify-content: center;
+    display: flex;
+    text-align: center;
+}
+.plans-title {
+    text-align: center;
+    font-weight: bold;
+    font-size: 22px;
+    font-size: 20px;
+    box-shadow: 0px 6px 50px rgba(rgb(17, 0, 0), green, blue, alpha);
+    border-radius: 5px;
+    padding-inline: 80px;
+}
+.plan-description {
+    text-align: center;
+    font-size: medium;
+    color: darkgrey;
+    box-shadow: 0px 6px 50px rgba(rgb(17, 0, 0), green, blue, alpha);
+    border-radius: 5px;
+    padding-inline: 80px;
+}
+.gradient {
+    background-image: url(../Projects-01/Image/watch.png);
+    background-origin: padding-box;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 45vh;
+    justify-content: space-between;
+    padding-top: 50px;
+    font-size: 50px;
+    color: white;
+}
+footer, a {
+    text-decoration: white;
+    font-size: 25px;
+    background-color: black;
+    color: white;
+}
+.send {
+    text-align: right;
+}
+.last {
+    background-color: white;
+    color: orange;
+    margin-top: 50px;
+}
+input{
+    color: white;
+    border-color: white;
+    border-radius: 5px;
+    padding: 15px;
+    background-color: black;
+}
